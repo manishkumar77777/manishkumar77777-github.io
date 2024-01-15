@@ -1,0 +1,91 @@
+h1 {
+   
+    color: rgb(11, 10, 10);
+    text-align: center;
+    border: solid 3px rgb(18, 18, 17);
+    position: relative;
+    top: 50px;
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #aa7e05;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    font-size: 60px;
+        
+      }
+      
+
+p  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    border: solid 3px rgb(13, 13, 13);
+    top: 30px;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 20px;
+    line-height: 1.5;
+    word-spacing: 0.25em;
+   
+}
+li, img {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+li .id contact {
+    text-align: left;
+
+    
+}
+html {
+   
+    text-align: center;
+    background-image: url("https://iili.io/JYW2Jbn.md.webp"  );
+}
+
+img {
+   
+  background-position: center; 
+}
+nav {
+    text-align: left;
+    
+}
+footer {
+    text-align: center;
+
+
+  }
+ table{
+    border: solid 3px gold;
+    position: relative;
+    top: 0.5px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 0.5px;
+    background-color: silver;
+    
+  }
+  ul {
+    list-style: none;
+   
+
+  }
+  h2 {
+    border: solid 3px gold;
+    position: relative;
+    top: 0.5px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 0.5px;
+    background-color: silver;
+    
+  }
