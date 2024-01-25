@@ -1,91 +1,114 @@
+
 h1 {
    
-    color: rgb(11, 10, 10);
-    text-align: center;
-    border: solid 3px rgb(18, 18, 17);
-    position: relative;
+    color: rgb(18, 18, 17);
+    border: solid 3px gold;
     top: 50px;
-    width: 600px;
+    width: 70%;
     margin: 0 auto;
     border-radius: 15px;
     padding: 20px;
-    background-color: #aa7e05;
-    font-size: 3rem;
+    background-color: silver;
     text-transform: uppercase;
     letter-spacing: 0.3em;
-    font-size: 60px;
-        
-      }
+    font-size: 4em;
+    font-family: 'Rubik Bubbles';
+    opacity: 80%;
+    }
       
 
-p  {
+p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 18px;
+    font-size: 1em;
     text-align: center;
     font-weight: bold;
-    border: solid 3px rgb(13, 13, 13);
+    border: solid 3px gold;
     top: 30px;
-    width: 400px;
+    width: 60%;
     margin: 0 auto;
     border-radius: 15px;
     padding: 20px;
     line-height: 1.5;
     word-spacing: 0.25em;
-   
-}
-li, img {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 18px;
-    font-weight: bold;
-}
-li .id contact {
-    text-align: left;
+    background-color: silver;
+    opacity: 80%;
+   }
 
-    
+
+li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1em;
+    font-weight: bold;    
+    text-transform: uppercase;
+    list-style: none;
 }
+
+
+
 html {
    
     text-align: center;
-    background-image: url("https://iili.io/JYW2Jbn.md.webp"  );
+    background-image: url("https://iili.io/JYWTCn2.webp"  );
+    background-repeat: no-repeat;
+    background-color: rgb(250, 228, 240);
+    background-size: cover;   
 }
 
-img {
-   
-  background-position: center; 
-}
 nav {
-    text-align: left;
-    
+    text-align: left;   
 }
-footer {
-    text-align: center;
-
-
-  }
  table{
     border: solid 3px gold;
     position: relative;
     top: 0.5px;
-    width: 200px;
+    width: 25%;
     margin: 0 auto;
     border-radius: 10px;
     padding: 0.5px;
     background-color: silver;
-    
+    opacity: 80%;
   }
   ul {
     list-style: none;
-   
-
   }
   h2 {
     border: solid 3px gold;
     position: relative;
     top: 0.5px;
-    width: 200px;
+    width: 25%;
     margin: 0 auto;
     border-radius: 10px;
     padding: 0.5px;
     background-color: silver;
+    opacity: 80%;
     
   }
+
+  a {
+    color: rgb(7, 0, 0);
+    text-transform: uppercase;
+    list-style: none;
+  }
+
+  table {
+    color: black;
+  }
+
+  @media only screen and (max-width: 480px) {
+  
+  }
+  
+  @media only screen and (min-width: 320px) and (max-width: 480px) , (orientation: portrait) {
+    
+  }
+  
+  @media only screen and (min-resolution: 150dpi) {
+    
+  }
+  @media only screen and (max-resolution: 150dpi) and (max-width: 480px) {
+    
+  }
+  @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+  }
+  
